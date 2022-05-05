@@ -1,6 +1,7 @@
 # Project Title
 
-## WARNING WORKING ONLY FOR WINDOWS 10/11
+## WARNING WORKING ONLY FOR WINDOWS 10/11 !!!
+<hr>
 
 ## Build
 You must first install pyinstaller
